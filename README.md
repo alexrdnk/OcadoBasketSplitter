@@ -111,7 +111,7 @@ At first you need to open terminal.
 <br/>You can test program with `./gradlew test`
 
 ## Making .JAR file
-That`s simple thing!!
+That is simple thing!!
 You need to use `./gradlew clean` command and then use `./gradle jar` to make library.
 Congratulations!
 
